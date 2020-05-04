@@ -1,0 +1,12 @@
+{
+  "name": "back",
+  "version": "0.01",
+  "description": "Server side",
+  "main": "app.js",
+  "author": "Farhan & Noman",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.15"
+  }
+}
